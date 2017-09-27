@@ -1,2 +1,5 @@
 This is my readme file
-some code goes here
+
+def multiply(x,y)
+ return x * Y
+end 
